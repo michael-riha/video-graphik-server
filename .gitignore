@@ -1,3 +1,5 @@
 # ignore all generated debug images from gstreamer!
-#/somedir/**/**.png
+**/**.png
 **/**.DS_Store
+**/GPUCache/**
+**/__pycache__
