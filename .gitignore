@@ -1,0 +1,3 @@
+# ignore all generated debug images from gstreamer!
+#/somedir/**/**.png
+**/**.DS_Store
